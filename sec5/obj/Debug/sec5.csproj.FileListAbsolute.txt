@@ -1,0 +1,10 @@
+C:\web\sec5\sec5\bin\Debug\sec5.exe.config
+C:\web\sec5\sec5\bin\Debug\sec5.exe
+C:\web\sec5\sec5\bin\Debug\sec5.pdb
+C:\web\sec5\sec5\obj\Debug\sec5.csproj.AssemblyReference.cache
+C:\web\sec5\sec5\obj\Debug\sec5.Form1.resources
+C:\web\sec5\sec5\obj\Debug\sec5.Properties.Resources.resources
+C:\web\sec5\sec5\obj\Debug\sec5.csproj.GenerateResource.cache
+C:\web\sec5\sec5\obj\Debug\sec5.csproj.CoreCompileInputs.cache
+C:\web\sec5\sec5\obj\Debug\sec5.exe
+C:\web\sec5\sec5\obj\Debug\sec5.pdb
